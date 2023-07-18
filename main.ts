@@ -20,5 +20,5 @@ iDelay = 40
 scrollbit.clear()
 basic.showIcon(IconNames.Heart)
 basic.forever(function () {
-    scrollbit.scrollText(" I {Heart} RAMSAT! ", iBrightness, iDelay)
+    scrollbit.scrollText(" I {Heart} RAMSAT! !", iBrightness, iDelay)
 })
